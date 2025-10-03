@@ -1,58 +1,77 @@
-# jose-site
+# Hejoric-dotcom
 
-🌐 Jose’s Progress Tracker
+🌐 **Hejoric-dotcom** is my personal site and living portfolio — a “GitHub for life.”  
+It tracks my progress across skills, projects, content creation, and habits, while showcasing my work and growth over time.
 
-A personal site designed to showcase my skills, projects, YouTube content, and consistency in different areas of life. Think of it as a GitHub for me, where instead of just code commits, I log and visualize progress in:
+---
 
-🎹 Music (piano, guitar, etc.)
+## 💡 Vision
 
-💻 Programming & AI/ML learning
+This site is more than a portfolio — it’s a progress journal.  
+I want to show not just my finished projects but also **how consistently I’ve been practicing, learning, and building**.  
+Think of it as a central hub where personal development, creative content, and career growth intersect.
 
-🌏 Languages (Japanese, Korean, French)
+---
 
-🏋️ Fitness (workouts, nutrition consistency)
+## 🏆 Tracked Areas
 
-🎥 Content creation (YouTube, vlogs, etc.)
+- 🎹 **Music:** Piano, guitar, and other instruments  
+- 💻 **Programming & AI/ML:** Projects, learning progress, code commits  
+- 🌏 **Languages:** Japanese, Korean, French (including JLPT prep)  
+- 🏋️ **Fitness:** Workouts, nutrition, progress logs  
+- 🎥 **Content Creation:** YouTube videos, vlogs, motivational content  
+- 🚀 **Career Development:** Internships, certifications, personal projects  
 
-🚀 Career development (internship applications, certifications, personal projects)
+---
 
-✨ Features
+## ✨ Features
 
-Profile Dashboard: Central hub with bio, highlights, and goals.
+- **Profile Dashboard:** Central hub with bio, highlights, and goals  
+- **Consistency Tracker:** Graphs/charts like GitHub’s contribution grid to track habits and progress  
+- **Projects Log:** Record milestones across coding, music, and other skills  
+- **Content Feed:** Pull in YouTube videos, blog posts, or notes automatically  
+- **Goals & Achievements:** Show current goals and mark completed ones  
+- **Public Portfolio:** Shareable with recruiters, collaborators, or friends  
 
-Consistency Tracker: Graphs/charts (like GitHub’s contributions grid) to track habits and progress.
+---
 
-Projects Log: Record milestones (apps, code, piano pieces learned, languages studied).
+## 🛠️ Tech Stack (Planned)
 
-Content Feed: Pull in YouTube videos, blog posts, or notes automatically.
+- **Frontend:** React + Tailwind CSS (modern, clean UI)  
+- **Backend:** Node.js/Express or Django/FastAPI (logging & API endpoints)  
+- **Database:** MongoDB or Postgres (store progress logs, goals, habits)  
+- **APIs:** YouTube API, Notion/Trello API integration for automated logging  
+- **Deployment:** Vercel/Netlify (frontend) + Railway/Heroku (backend)  
 
-Goals & Achievements: Show current goals (ex: JLPT N2, internship apps, PR in deadlift) and mark completed ones.
+---
 
-Public Portfolio: Something you can share with recruiters, collaborators, or friends.
+## 📈 Roadmap
 
-🛠️ Tech Stack (planned)
+- ✅ Initial wireframe & design  
+- 🔧 React frontend setup  
+- 🖥 Build habit tracker component (GitHub-style heatmap)  
+- 📺 YouTube integration for content feed  
+- 🚀 Deploy MVP for public access  
+- 🌟 Future: Social version, leaderboards, public “commit history” for habits  
 
-Frontend: React + Tailwind (clean, modern UI)
+---
 
-Backend: Node.js/Express or Django/FastAPI (for logging & APIs)
+## 💼 Career Impact
 
-Database: MongoDB/Postgres (to store progress logs, goals, habits)
+Hejoric-dotcom demonstrates:  
+- Full-stack web development (React + backend APIs)  
+- UI/UX design and frontend creativity (Tailwind, Figma mockups)  
+- Cloud integration and data tracking  
+- Personal initiative and consistency — showing real-life progress alongside projects  
 
-APIs: YouTube API for pulling content, maybe Notion/Trello API for goals integration
+---
 
-Deployment: Vercel / Netlify (frontend) + Railway / Heroku (backend)
+## 📬 Contact
 
-📈 Vision
+- **YouTube:** [link here]  
+- **LinkedIn:** [link here]  
+- **Portfolio:** [Hejoric-dotcom once deployed]  
 
-This site is more than a portfolio — it’s a progress journal.
-I want to show not just my finished projects but also the process: how consistently I’ve been practicing, learning, and building.
+---
 
-Future ideas:
-
-Social version (others can fork & use it for their own lives)
-
-Leaderboards with friends
-
-Public “commit history” for habits
-
-🚧 Status
+*Made with ❤️ by Jose Herrera. A personal hub for growth, creativity, and showing the process behind the progress.*
